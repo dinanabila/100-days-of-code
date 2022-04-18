@@ -1,30 +1,26 @@
 # 100 Days Of Code - Log
 
-### Day 0: February 30, 2016 (Example 1)
-##### (delete me or comment me out)
+### Day 1: April 15, Friday
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+**Today's Progress**: Learning Basic HTML and HTML5 on freeCodeCamp. 
 
-**Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+**Thoughts**: It's my first day join the challenge. My goal is to finish Responsive Web Design course on freeCodeCamp. I'm grateful that this first one is not too hard, since I am a bit familiar with HTML things from blogger/blogspot. 
 
-**Link to work:** [Calculator App](http://www.example.com)
+### Day 2: June 16, Saturday
 
-### Day 0: February 30, 2016 (Example 2)
-##### (delete me or comment me out)
+**Today's Progress**: Trying create a tribute page with HTML that I've learned yesterday, using CodePen. 
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+**Thoughts**: First time coding in CodePen. Man, it's really fun. And what's more is, there are many people's work that's really inspired and motivated me to keep going on this. I hope someday I can be as skillful as them. 
 
-**Thoughts**: I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+### Day 3: June 17, Sunday
 
-**Link(s) to work**: [Calculator App](http://www.example.com)
+**Today's Progress**: Learning Basic CSS on freeCodeCamp. 
 
+**Thoughts**: It was really hard since they're all new to me, but it's feel nice too for learn new things. I can't be expected to remember all concept of basic css that I've learned in only one day, though, until I really using them for building projects. So I think I would using it as soon as possible on tribute page that I've try to build yesterday. 
 
-### Day 1: June 27, Monday
+### Day 4: June 18, Monday
 
-**Today's Progress**: I've gone through many exercises on FreeCodeCamp.
+**Today's Progress**: Learning Applied Visual Design in freeCodeCamp Responsive Web Design course. I also learned from https://github.com/atapas/fork-me how to fork a repo and create a pull request in Github for my first time. 
 
-**Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
+**Thoughts**: I've recently started learning how to use Github, and it's a great feeling when I finally understand how to fork and pull a request. 
 
-**Link(s) to work**
-1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
-2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
