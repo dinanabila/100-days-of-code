@@ -24,3 +24,10 @@
 
 **Thoughts**: I've recently started learning how to use Github, and it's a great feeling when I finally understand how to fork and pull a request. 
 
+### Day 5: April 19, Tuesday
+
+**Today's Progress**: Adding some CSS to my tribute page project on CodePen. 
+
+**Thoughts**: I'm really having fun coding in codepen. Wish I had more time to do this. But fine, I'll do this again in the next day. 
+
+**Link to work:** [Hiro Mashima Tribute Page](https://codepen.io/dinanabila/pen/NWXEXKG)
