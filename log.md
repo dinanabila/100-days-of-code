@@ -31,3 +31,9 @@
 **Thoughts**: I'm really having fun coding in codepen. Wish I had more time to do this. But fine, I'll do this again in the next day. 
 
 **Link to work:** [Hiro Mashima Tribute Page](https://codepen.io/dinanabila/pen/NWXEXKG)
+
+### Day 6: April 20, Wednesday
+
+**Today's Progress**: Learning how to positioning an element with CSS, and also learning a bit of color theory from Applied Visual Design course on freeCodeCamp. 
+
+**Thoughts**: I've been a bit of struggled when learning how to positioning an element. Like, I'm still puzzling how to distinguish position: relative, and position: absolute. And this thought also come into my mind too: "When is the best time for us using margin, position, and padding?" Because they're all seems similar to me. 
