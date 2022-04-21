@@ -37,3 +37,9 @@
 **Today's Progress**: Learning how to positioning an element with CSS, and also learning a bit of color theory from Applied Visual Design course on freeCodeCamp. 
 
 **Thoughts**: I've been a bit of struggled when learning how to positioning an element. Like, I'm still puzzling how to distinguish position: relative, and position: absolute. And this thought also come into my mind too: "When is the best time for us using margin, position, and padding?" Because they're all seems similar to me. 
+
+### Day 7: April 21, Thursday
+
+**Today's Progress**: Finally finished the Applied Visual Design course on freeCodeCamp. 
+
+**Thoughts**: Struggling a bit when learning how to make a heart shape with css pseudo classes after and before. But it's fine, I'm already get it now after doing a few of trial and error method. The one that still make me confused is the cubic-bezier part. How does it work? What kind of change that Y-axis does?  
