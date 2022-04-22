@@ -43,3 +43,10 @@
 **Today's Progress**: Finally finished the Applied Visual Design course on freeCodeCamp. 
 
 **Thoughts**: Struggling a bit when learning how to make a heart shape with css pseudo classes after and before. But it's fine, I'm already get it now after doing a few of trial and error method. The one that still make me confused is the cubic-bezier part. How does it work? What kind of change that Y-axis does?  
+
+### Day 8: April 22, Friday
+
+**Today's Progress**: Learning CSS flexbox and a little bit of CSS grid.
+
+**Thoughts**: They're seems similar, so I've googling it - what is the difference between them. And after reading some of the articles, think I should try it for myself on CodePen tomorrow to understand the difference. 
+
