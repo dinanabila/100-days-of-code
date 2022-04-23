@@ -50,3 +50,10 @@
 
 **Thoughts**: They're seems similar, so I've googling it - what is the difference between them. And after reading some of the articles, think I should try it for myself on CodePen tomorrow to understand the difference. 
 
+### Day 9: April 23, Saturday
+
+**Today's Progress**: Creating NYAN WANTED POSTER page on CodePen. 
+
+**Thoughts**: I'm creating this Nyan Wanted Poster for learning how to use CSS flexbox that I've learned yesterday. 
+
+**Link to work:** [NYAN WANTED POSTER](https://codepen.io/dinanabila/pen/PoEggEB)
