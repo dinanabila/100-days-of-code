@@ -57,3 +57,10 @@
 **Thoughts**: I'm creating this Nyan Wanted Poster for learning how to use CSS flexbox that I've learned yesterday. 
 
 **Link to work:** [NYAN WANTED POSTER](https://codepen.io/dinanabila/pen/PoEggEB)
+
+### Day 10: April 24, Sunday
+
+**Today's Progress**: Learning CSS grid on freeCodeCamp. 
+
+**Thoughts**: Finally reaching the final lesson on Responsive Web Design course. I'm excited for waiting tomorrow, because that's my time for building projects :-)
+
