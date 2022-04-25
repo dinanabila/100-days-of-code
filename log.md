@@ -64,3 +64,10 @@
 
 **Thoughts**: Finally reaching the final lesson on Responsive Web Design course. I'm excited for waiting tomorrow, because that's my time for building projects :-)
 
+### Day 11: April 25, Monday
+
+**Today's Progress**: Start building a tribute page for Ki Hadjar Dewantara.
+
+**Thoughts**:  It's a little disappointing on fact that there's a lot more of daydream than me typing the code. Next time maybe it's best to plan the layout first before starting to build. So there's not much wasted time when I code. 
+
+**Link to work:** [Ki Hadjar Dewantara Tribute Page](https://codepen.io/dinanabila/pen/yLpWrNQ)
