@@ -71,3 +71,12 @@
 **Thoughts**:  It's a little disappointing on fact that there's a lot more of daydream than me typing the code. Next time maybe it's best to plan the layout first before starting to build. So there's not much wasted time when I code. 
 
 **Link to work:** [Ki Hadjar Dewantara Tribute Page](https://codepen.io/dinanabila/pen/yLpWrNQ)
+
+### Day 12: April 26, Tuesday
+
+**Today's Progress**: Continue building a tribute page for Ki Hadjar Dewantara.
+
+**Thoughts**: 90% done. The rest is build the @media query part. It's a bit of stress when I building the page. Like, I always want to know, are there any ways that more simple to adjust @media css? I browsing it though, and what I get from article is, don't use absolute unit again. Use relative unit like em and rem, that would be better. Okay, I will do it in the next project then, and see how different it is. 
+
+**Link to work:** [Ki Hadjar Dewantara Tribute Page](https://codepen.io/dinanabila/pen/yLpWrNQ)
+
