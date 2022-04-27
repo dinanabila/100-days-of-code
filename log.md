@@ -80,3 +80,8 @@
 
 **Link to work:** [Ki Hadjar Dewantara Tribute Page](https://codepen.io/dinanabila/pen/yLpWrNQ)
 
+### Day 13: April 27, Wednesday
+
+**Today's Progress**: Nothing.
+
+**Thoughts**: I need holiday. So today is my holiday from code. Time to rest my head.
