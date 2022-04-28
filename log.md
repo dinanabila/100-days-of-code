@@ -85,3 +85,9 @@
 **Today's Progress**: Nothing.
 
 **Thoughts**: I need holiday. So today is my holiday from code. Time to rest my head.
+
+### Day 14: April 28, Thursday
+
+**Today's Progress**: Learning the benefit of using css viewport unit, and how it different from another unit like px, em, and percentage.
+
+**Thoughts**: They say it's good and more effective for making a web responsive. If that so, should I not use px unit anymore?
