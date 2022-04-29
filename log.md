@@ -91,3 +91,9 @@
 **Today's Progress**: Learning the benefit of using css viewport unit, and how it different from another unit like px, em, and percentage.
 
 **Thoughts**: They say it's good and more effective for making a web responsive. If that so, should I not use px unit anymore?
+
+### Day 15: April 29, Friday
+
+**Today's Progress**: Start building a survey form for fcc project. 
+
+**Thoughts**: The process is still on building the html and fulfilling the required user stories. 
