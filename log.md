@@ -97,3 +97,11 @@
 **Today's Progress**: Start building a survey form for fcc project. 
 
 **Thoughts**: The process is still on building the html and fulfilling the required user stories. 
+
+### Day 16: May 07, Saturday
+
+**Today's Progress**: Learning FCC's survey form HTML codepen. 
+
+**Thoughts**: Today I'm not coding. I've got struggled when I try to build a survey form by myself before. So for now I only trying to understand and write on a paper about the flow of FCC's survey form HTML on codepen. 
+
+**Link to work:** [My note photo](https://twitter.com/lamanbella/status/1522928568078008320)
